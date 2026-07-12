@@ -321,8 +321,7 @@ msgid "GIF Settings"
 msgstr "动图设置"
 
 #: gnome-extensions/extension/features/GIF/preferences/gifPreferenceGroup.js:24
-msgid ""
-"To search for GIFs, you must select a provider and provide your own API key."
+msgid "To search for GIFs, you must select a provider and provide your own API key."
 msgstr "搜索动图必须选择提供商并提供自己的 API 密钥。"
 
 #: gnome-extensions/extension/features/GIF/preferences/gifPreferenceGroup.js:36
@@ -732,13 +731,11 @@ msgid "Global Window Rows"
 msgstr "全局窗口行数"
 
 #: gnome-extensions/extension/features/RecentlyUsed/preferences/recentlyUsedAdvancedOverridesPrefs.js:677
-msgid ""
-"Global row limit for grid when custom window limits by view is disabled."
+msgid "Global row limit for grid when custom window limits by view is disabled."
 msgstr "自定义视图窗口限制禁用时的网格全局行数上限。"
 
 #: gnome-extensions/extension/features/RecentlyUsed/preferences/recentlyUsedAdvancedOverridesPrefs.js:677
-msgid ""
-"Global row limit for list when custom window limits by view is disabled."
+msgid "Global row limit for list when custom window limits by view is disabled."
 msgstr "自定义视图窗口限制禁用时的列表全局行数上限。"
 
 #: gnome-extensions/extension/features/RecentlyUsed/preferences/recentlyUsedAdvancedOverridesPrefs.js:683
@@ -808,15 +805,11 @@ msgid "Show a global search bar to filter items across Recently Used sections."
 msgstr "显示全局搜索栏以在最近使用分区中过滤项目。"
 
 #: gnome-extensions/extension/features/RecentlyUsed/preferences/recentlyUsedPreferenceGroup.js:218
-msgid ""
-"Global item cap for list and grid when custom visible-items by view is "
-"disabled."
+msgid "Global item cap for list and grid when custom visible-items by view is disabled."
 msgstr "自定义视图可见项目数禁用时的列表和网格全局上限。"
 
 #: gnome-extensions/extension/features/RecentlyUsed/preferences/recentlyUsedPreferenceGroup.js:253
-msgid ""
-"Global row limit for list and grid when custom window limits by view is "
-"disabled."
+msgid "Global row limit for list and grid when custom window limits by view is disabled."
 msgstr "自定义视图窗口限制禁用时的列表和网格全局行数上限。"
 
 #: gnome-extensions/extension/shared/menu/menuIndicator.js:28
@@ -829,8 +822,7 @@ msgstr "自动粘贴设置"
 
 #: gnome-extensions/extension/shared/preferences/preferenceGroupAutoPaste.js:15
 #: gnome-extensions/extension/shared/preferences/preferenceGroupAutoPaste.js:22
-msgid ""
-"Automatically paste selected items instead of just copying to clipboard."
+msgid "Automatically paste selected items instead of just copying to clipboard."
 msgstr "自动粘贴选中项目，而不仅是复制到剪贴板。"
 
 #: gnome-extensions/extension/shared/preferences/preferenceGroupAutoPaste.js:21
@@ -862,9 +854,7 @@ msgid "Data Management"
 msgstr "数据管理"
 
 #: gnome-extensions/extension/shared/preferences/preferenceGroupDataManagement.js:17
-msgid ""
-"Manage stored data and configure automatic cleanup. Manual actions cannot be "
-"undone."
+msgid "Manage stored data and configure automatic cleanup. Manual actions cannot be undone."
 msgstr "管理存储数据并配置自动清理。手动操作无法撤销。"
 
 #: gnome-extensions/extension/shared/preferences/preferenceGroupDataManagement.js:23
@@ -998,9 +988,7 @@ msgid "Enhanced Exclusion Detection"
 msgstr "增强排除检测"
 
 #: gnome-extensions/extension/shared/preferences/preferenceGroupExclusions.js:23
-msgid ""
-"Detects excluded applications inside browser windows and enables the system "
-"accessibility service if needed."
+msgid "Detects excluded applications inside browser windows and enables the system accessibility service if needed."
 msgstr "检测浏览器窗口内的排除应用，并在需要时启用系统辅助功能服务。"
 
 #: gnome-extensions/extension/shared/preferences/preferenceGroupExclusions.js:35
@@ -1096,9 +1084,7 @@ msgid "Grid Columns"
 msgstr "网格列数"
 
 #: gnome-extensions/extension/shared/preferences/preferenceGroupGridLayout.js:18
-msgid ""
-"Control column counts for grid and masonry views. Turn off for automatic "
-"sizing."
+msgid "Control column counts for grid and masonry views. Turn off for automatic sizing."
 msgstr "控制网格和瀑布流视图的列数。关闭则自动调整。"
 
 #: gnome-extensions/extension/shared/preferences/preferenceGroupGridLayout.js:32
@@ -1320,11 +1306,8 @@ msgid "Reset All Settings?"
 msgstr "重置所有设置？"
 
 #: gnome-extensions/extension/shared/preferences/preferenceGroupSettingsManagement.js:199
-msgid ""
-"Are you sure you want to restore all extension settings to their defaults? "
-"This action cannot be undone."
-msgstr ""
-"确定要将所有扩展设置恢复为默认值吗？此操作无法撤销。"
+msgid "Are you sure you want to restore all extension settings to their defaults? This action cannot be undone."
+msgstr "确定要将所有扩展设置恢复为默认值吗？此操作无法撤销。"
 
 #: gnome-extensions/extension/shared/preferences/preferenceGroupSettingsManagement.js:215
 msgid "Settings successfully reset to defaults."
